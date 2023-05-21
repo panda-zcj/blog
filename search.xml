@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>未来的一封信</title>
+    <url>/blog/2023/05/20/dream/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>那些时光</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>此时此刻</title>
     <url>/blog/2023/05/20/introduce/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="致一个可爱的孩子"><a href="#致一个可爱的孩子" class="headerlink" title="致一个可爱的孩子"></a>致一个可爱的孩子</h2><hr>
@@ -77,17 +88,6 @@
     <span style="float:right;">2023年5月20号，写于上海</span>
 </p>
 ]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-      <tags>
-        <tag>那些时光</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>未来的一封信</title>
-    <url>/blog/2023/05/20/dream/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\blog\assets\css\APlayer.min.css"><script src="\blog\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       <categories>
         <category>随笔</category>
       </categories>
